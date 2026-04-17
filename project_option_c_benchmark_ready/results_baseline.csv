@@ -1,0 +1,4 @@
+scenario,method,distance,vehicles_used,time_window_respect_pct,co2_kg
+C1,Baseline,254.87,2,91.67,45.88
+R1,Baseline,491.66,3,75.0,88.5
+RC1,Baseline,293.87,2,83.33,52.9

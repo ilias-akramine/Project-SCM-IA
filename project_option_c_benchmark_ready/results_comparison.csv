@@ -1,0 +1,7 @@
+scenario,method,distance,vehicles_used,time_window_respect_pct,co2_kg
+C1,OR-Tools,208.76,3,100.0,37.58
+C1,Simulated Annealing,237.51,3,100.0,42.75
+R1,OR-Tools,433.12,3,100.0,77.96
+R1,Simulated Annealing,442.34,3,100.0,79.62
+RC1,OR-Tools,216.48,2,100.0,38.97
+RC1,Simulated Annealing,234.03,2,100.0,42.13

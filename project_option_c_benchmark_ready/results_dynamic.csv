@@ -1,0 +1,3 @@
+phase,distance,vehicles_used,time_window_respect_pct,co2_kg
+before,216.48,2,100.0,38.97
+after,322.73,3,100.0,58.09
