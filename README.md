@@ -4,13 +4,7 @@ This project solves the **Vehicle Routing Problem with Time Windows (VRPTW)** in
 - an urgent new customer request,
 - a traffic disruption zone that increases travel time.
 
-## What was corrected
 
-This version fixes the main academic weakness of the earlier draft:
-- it no longer depends on synthetic random instances,
-- it is designed to run on **real Solomon benchmark files**,
-- it compares **Baseline vs OR-Tools vs Simulated Annealing**,
-- it keeps the dynamic RC1 scenario with urgent order + traffic incident.
 
 ## Repository structure
 
@@ -65,5 +59,3 @@ Solomon instances are standard VRPTW benchmark problems, and the 100-customer ca
 ## Notes
 
 - For a quick demo, set `customer_limit=25` in `main.py`.
-- For the final submission, use the full 100-customer benchmark files.
-- The project remains **fully Python-based**.
