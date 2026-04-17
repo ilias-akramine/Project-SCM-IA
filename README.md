@@ -41,7 +41,7 @@ The project targets the required benchmark families:
 - `R1` → `R101.txt`
 - `RC1` → `RC101.txt`
 
-Solomon instances are standard VRPTW benchmark problems, and the 100-customer cases are the canonical versions used in many comparisons. Travel time equals Euclidean distance in these instances. citeturn370696search0turn913358search3
+Solomon instances are standard VRPTW benchmark problems, and the 100-customer cases are the canonical versions used in many comparisons. Travel time equals Euclidean distance in these instances.
 
 ## How to run
 
